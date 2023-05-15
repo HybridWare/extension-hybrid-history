@@ -1,9 +1,9 @@
 {
 	"manifest_version": 2,
-	"name": "agregore-history",
+	"name": "hybrid-history",
 	"version": "1.1.1",
 
-	"description": "The history tracking functionality for the Agregore Browser",
+	"description": "The history tracking functionality for the Hybrid Browser",
 
 	"permissions": ["webNavigation"],
 
