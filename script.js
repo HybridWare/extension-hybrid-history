@@ -9,7 +9,7 @@ const HISTORY_VERSION = 1
 const HISTORY_STORE = 'navigated'
 const MAX_RESULTS = 8
 
-const FORBIDDEN_PROTOCOLS = ['hybrid:', 'chrome-extension:', 'devtools:']
+const FORBIDDEN_PROTOCOLS = ['anon:', 'zero:', 'chrome-extension:', 'devtools:']
 
 main()
 
